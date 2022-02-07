@@ -6,6 +6,9 @@ Estas são algumas **anotações pessoais** sobre as aulas assistidas:
 
 #
 ## 🔰Git
+
+![Image](Imagens/exemplo.png)
+
 O que é?
 
     Software open source de controle de versão (VCS), primariamente desenvolvido por Linus Torvalds. Este faz o gerenciamento local de arquivos, guardando as várias versões e atualizações do mesmo.
