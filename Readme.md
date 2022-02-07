@@ -207,6 +207,28 @@ Comandos:
 
 Por meio do GitHub Pages é possível hospedar o seu site de forma gratuita!
 
+# 🦗Resumo:
+
+📌*Commit:*  **versionamento local** dos arquivos - realizado por um software de versão **(Git)**;
+
+📌*Origin:*  **repositório remoto** (GitHub)
+
+📌*Push:*  **envio** dos arquivos versionados para o rempositório remoto **(GitHub)**;
+
+📌*Pull:*  **atualização dos arquivos** da sua máquina e com os últimos arquivos remotos;
+
+📌*Issue:*  **problema ou questão** levantada a respeito de algo;
+
+📌*Branch:*  **ramo** na qual as alterações estão sendo feitas;
+
+📌*Merge:*  **junção dos ramos** na branch principal (master);
+
+📌*Clone:*  **baixa os arquivos** do repositório remoto para sua máquina;
+
+📌*Fork:*  **clona para o seu repositório** remotos os arquivos de outros repositórios;
+
+
+
 #
 
 *__By Jackson__*
